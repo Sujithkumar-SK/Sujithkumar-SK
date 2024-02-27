@@ -96,22 +96,22 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/GURUAKASHSM">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GURUAKASHSM&theme=radical&border=7F3FBF&background=000000" alt="Saif's GitHub streak"/>
+  <a href="[https://github.com/GURUAKASHSM](https://github.com/skempire7)">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=skempire7&theme=radical&border=7F3FBF&background=000000" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/GURUAKASHSM">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GURUAKASHSM&theme=radical" alt="Guruakash's GitHub Contribution"/>
+  <a href="https://github.com/skempire7">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skempire7&theme=radical" alt="Guruakash's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/skempire7"><img alt="Sujith's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GURUAKASHSM&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=000000&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/skempire7"><img Sujith's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GURUAKASHSM&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=000000&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/skempire7"><img alt="Sujith's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=skempire7&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=000000&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/skempire7"><img Sujith's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=skempire7&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=000000&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Sujith's Graph](https://github-readme-activity-graph.vercel.app/graph?username=GURUAKASHSM&custom_title=Guruakash's%20GitHub%20Activity%20Graph&bg_color=000000&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Sujith's Graph](https://github-readme-activity-graph.vercel.app/graph?username=skempire7&custom_title=Sujith's%20GitHub%20Activity%20Graph&bg_color=000000&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
