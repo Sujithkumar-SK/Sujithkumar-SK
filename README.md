@@ -13,7 +13,7 @@
 </h3>
 <br>
 <p align="center">
-  <a href="https://github.com/skempire7"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;DevOps%20Engineer;AWS%20and%20Linux%20Specialist;Networking%20Enthusiast;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/skempire7"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;DevOps%20Engineer;AWS%20and%20Linux%20Specialist;Networking%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <p align="center"> 
@@ -26,19 +26,19 @@
 </p>
 
 <p align="center">
- <a href="https://sujithkumars.me/" target="blank">
+ <a href="https://sujithkumar-sk.github.io/portfolio/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
- <a href="https://linkedin.com/in/guruakash-s-m-514487246" target="_blank">
+ <a href="https://www.linkedin.com/in/sujith-kumars/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
- <a href="https://github.com/GURUAKASHSM" target="_blank">
+ <a href="https://github.com/Sujithkumar-SK" target="_blank">
   <img src="https://img.shields.io/badge/Github-1DA1F2?style=for-the-badge&logo=Github&logoColor=white" />
  </a>
  <a href="https://www.instagram.com/guruakash.s.m/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://www.hackerrank.com/guruakash_ec20" target="_blank">
+ <a href="https://www.hackerrank.com/profile/skempire" target="_blank">
   <img src="https://img.shields.io/badge/Hackerrank-20BEFF?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
