@@ -1,117 +1,27 @@
-
-<h2 align="center">
-  Welcome to my Profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+# 💫 About Me:
+👋 Hi, I'm Sujith Kumar S!<br>I'm a Backend Developer and Junior Software Engineer with experience in Python, Django, FastAPI, and cloud-native development. I specialize in building scalable web applications, designing RESTful APIs, and integrating AWS services.<br><br>🚀 Key Skills: Python, Flask, Django, FastAPI, REST API, SQL, AWS (EC2, S3, RDS), Docker, Kubernetes, Git, CI/CD.<br>📌 Projects: AI-Based Tamil Palm Leaf Character Recognition, GameZone, AWS High Availability Architecture.<br>🎯 Currently Improving: Problem-solving skills in Python.<br>💡 Passionate about backend architecture, cloud computing, and automation. Always open to learning and collaborating!
 
 
-<!-- Intro -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://sujithkumars.me/">SUJITH KUMAR S</a></b>
-        </samp>
-</h3>
-<br>
-<p align="center">
-  <a href="https://github.com/skempire7"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;DevOps%20Engineer;AWS%20and%20Linux%20Specialist;Networking%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujith-kumars) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujinano777@gmail.com) 
 
-<p align="center"> 
-  <samp>
-    <br>
-    「 I am an Engineer from <b>Tamilnadu</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sujithkumar-SK&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sujithkumar-SK&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujithkumar-SK&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
- <a href="https://sujithkumar-sk.github.io/portfolio/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://www.linkedin.com/in/sujith-kumars/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <a href="https://github.com/Sujithkumar-SK" target="_blank">
-  <img src="https://img.shields.io/badge/Github-1DA1F2?style=for-the-badge&logo=Github&logoColor=white" />
- </a>
- <a href="https://www.instagram.com/guruakash.s.m/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://www.hackerrank.com/profile/skempire" target="_blank">
-  <img src="https://img.shields.io/badge/Hackerrank-20BEFF?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="alsiam"  />
-  </a> 
-</p>
-<br />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sujithkumar-SK&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: sujinano777@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/skempire7)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sujithkumar-SK&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br/>
-<br/>
-<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=Sujithkumar-SK&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Use To Code
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![GoLang](https://img.shields.io/badge/GoLang-007acc?style=for-the-badge&labelColor=black&logo=go&logoColor=007acc)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=20232A&logo=linux&logoColor=FCC624)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&labelColor=black&logo=c&logoColor=00599C)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&labelColor=black&logo=python&logoColor=FF6F61)
-![ML Flask](https://img.shields.io/badge/ML_Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI/UX-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-0170FE?style=for-the-badge&labelColor=black&logo=antdesign&logoColor=white)
-![Electronics](https://img.shields.io/badge/Electronics-092749?style=for-the-badge&labelColor=000000&logo=tailwindcss&logoColor=06B6D4)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
-
-## Top Open Source -
-[![AI-Based-Tamil-Palm-Leaf-Character-Recognition](https://github-readme-stats.vercel.app/api/pin/?username=skempire7&repo=AI-Based-Tamil-Palm-Leaf-Character-Recognition&border_color=7F3FBF&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/skempire7/AI-Based-Tamil-Palm-Leaf-Character-Recognition)
-[![Guruaaksh PortFolio](https://github-readme-stats.vercel.app/api/pin/?username=GURUAKASHSM&repo=Portfolio&border_color=7F3FBF&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GURUAKASHSM/Portfolio)
-[![IMAGE-SPEECH](https://github-readme-stats.vercel.app/api/pin/?username=GURUAKASHSM&repo=IMAGE-TEXT-SPEECH&border_color=7F3FBF&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GURUAKASHSM/IMAGE-TEXT-SPEECH)
-[![ROAD HEALTH MONITORING SYSTEM](https://github-readme-stats.vercel.app/api/pin/?username=GURUAKASHSM&repo=Road-Health-Monitoring-System&border_color=7F3FBF&bg_color=000000&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GURUAKASHSM/Road-Health-Monitoring-System)
-
-<p align="left">
-  <a href="https://github.com/skempire7?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="[https://github.com/GURUAKASHSM](https://github.com/skempire7)">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=skempire7&theme=radical&border=7F3FBF&background=000000" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/skempire7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skempire7&theme=radical" alt="Guruakash's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/skempire7"><img alt="Sujith's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=skempire7&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=000000&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/skempire7"><img Sujith's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=skempire7&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=000000&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-![Sujith's Graph](https://github-readme-activity-graph.vercel.app/graph?username=skempire7&custom_title=Sujith's%20GitHub%20Activity%20Graph&bg_color=000000&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
